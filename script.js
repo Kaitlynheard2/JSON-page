@@ -42,7 +42,7 @@ let jsonDataBase =[ {
       "content":[
          "bronzer",
          "blush",
-         "higlight"
+         "highlight"
       ]
     },
       {"title":"lips",
