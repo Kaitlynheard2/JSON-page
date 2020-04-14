@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap');
+
+body,html{
+  background-color: #dbd4b6;
+  font-family: 'Libre Baskerville', serif;
+  font-style: normal;
+}
+
+#primercircle{
+    height: 100vmin;
+    width: 100vmin;
+    background-color: #f2cf9b;
+    border-radius: 50vmin;
+    font-size: 10vmin;
+    
+    color:white;
+}
+
+.center{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:50%;
+}
+
+
+#eyebrowcircle{
+  height: 90vmin;
+  width: 90vmin;
+  background-color: #5c3905;
+  border-radius: 45vmin;
+}
+
+#facecircle{
+  height:80vmin;
+  width:80vmin;
+  background-color:#755026;
+  border-radius: 40vmin;
+
+}
+
+#eyescircle{
+  height:70vmin;
+  width:70vmin;
+  background-color: #875710;
+  border-radius:35vmin;
+}
+
+#undereyescircle{
+  height:60vmin;
+  width:60vmin;
+  background-color: #916d37;
+  border-radius: 30vmin;
+}
+
+#cheeckcircle{
+  height:50vmin;
+  width:50vmin;
+  background-color: #d1872c;
+  border-radius: 25vmin;
+}
+
+#lipcircle{
+  height:40vmin;
+  width:40vmin;
+  background-color: #590318;
+  border-radius:20vmin;
+}
+
+h1{
+  text-align:center;
+  color:white;
+  font-size: 15vmin;
+}
